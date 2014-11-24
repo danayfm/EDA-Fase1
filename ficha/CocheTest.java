@@ -10,7 +10,7 @@ public class CocheTest {
 	final static String marca = "Mercedez-Benz";
 	final static String modelo = "XXX";
 	final static String color = "blanco";
-	final static String nif = "80108213H";
+	final static String nif = "123456789";
 	final static int aMatricula = 1998;
 	final static int km = 193823;
 	final static int potencia = 200;
